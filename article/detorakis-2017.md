@@ -21,21 +21,21 @@ Address:
 Contact:
   - gdetorak@uci.edu
 Editor:
-  - Name Surname
+  - Tiziano Zito
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Hans Ekkehard Plesser
+  - Pierre de Buyl
 Publication:
-  received:  Sep,  1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  received:  Aug,  3, 2017
+  accepted:  Aug, 18, 2017
+  published: Sep,  6, 2017
+  volume:    "**3**"
   issue:     "**1**"
-  date:      Sep 2015
-  number: 1
+  date:      Sep 2017
+  number: 7
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "https://github.com/ReScience-Archives/Detorakis-2017"
+  code:      "https://github.com/ReScience-Archives/Detorakis-2017"
   data:      
   notebook:  
 Reproduction:
