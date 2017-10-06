@@ -16,10 +16,10 @@ Reviewer:
 Publication:
   received:  Aug,  3, 2017
   accepted:  Aug, 18, 2017
-  published: Sep,  6, 2017
+  published: Oct,  6, 2017
   volume:    "**3**"
   issue:     "**1**"
-  date:      Sep 2017
+  date:      Oct 2017
   number: 7
 Repository:
   article:   "https://github.com/ReScience-Archives/Detorakis-2017"
